@@ -106,11 +106,7 @@
 <div align="left">
   <h3>📰 Recent Publications:</h3>
   
-<!-- BLOG-POST-LIST:START -->
-
-<!-- Will be filled by GitHub Actions -->
-
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://kayumuzzaman.medium.com/when-will-my-promise-resolve-a-journey-through-javascript-async-execution-72eea387c2c1?source=rss-422438de961f------2"><img width="140px" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/medium.svg"></a></td><td><strong><a href="https://kayumuzzaman.medium.com/when-will-my-promise-resolve-a-journey-through-javascript-async-execution-72eea387c2c1?source=rss-422438de961f------2">When Will My Promise Resolve? A Journey Through JavaScript Async Execution</a></strong><br/><i></i><br/><sup>Published on 088 15, 2025</sup></td></tr></table><!-- BLOG-POST-LIST:END -->
 
 </div>
 
