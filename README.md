@@ -111,16 +111,19 @@
 - ✍️ Writing technical articles on web development best practices
 - 📚 Exploring micro-frontend architecture patterns
 
-## 🏆 Stats
+## 📊 GitHub Stats
 
-<div align="center" style="display: flex; justify-content: center; gap: 5px; flex-wrap: wrap;">
-  <a href="https://stackoverflow.com/users/11002126/kayumuzzaman">
-    <img width="450" height="150" src="https://stackoverflow-card.vercel.app/?userID=11002126&theme=stackoverflow-dark" alt="Kayumuzzaman's Stack Overflow Stats" />
-  </a>
-
-  <div align="center">
-  <img width="450" height="150" src="https://github-readme-streak-stats.herokuapp.com?user=kayumuzzaman&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+<div align="center" >
+  <img width="450" src="https://github-readme-streak-stats.herokuapp.com?user=kayumuzzaman&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </div>
+
+## 📊 StackOverFlow Stats
+
+<div align="center" >
+    
+  <a href="https://stackoverflow.com/users/11002126/kayumuzzaman">
+    <img width="450" src="https://stackoverflow-card.vercel.app/?userID=11002126&theme=stackoverflow-dark" alt="Stack Overflow Stats" />
+  </a>
 </div>
 
 <!--
