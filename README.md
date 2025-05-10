@@ -49,8 +49,8 @@
 - 🚀 Frontend Team Lead developing financial products
 - 💻 Full-stack expertise with **React**, **TypeScript**, **NestJS** & **Express**
 - 🌏 Experience with clients across **Bangladesh**, **Africa**, **UK** & **USA**
-- 🔄 Open-source contributor to **OpenCRVS** - Civil Registration & Vital Statistics platform
-- 🏆 Successfully delivered 4+ large-scale web applications with innovative solutions
+- 🔄 Open-source contributor to [**OpenCRVS**](https://github.com/opencrvs/opencrvs-core) - Civil Registration & Vital Statistics platform | [view my PRs](https://github.com/opencrvs/opencrvs-core/pulls?q=author%3Akayumuzzaman)
+- 🏆 Successfully delivered 4+ large-scale web applications with DSi
 - 📈 Led team of 4 engineers to increase product performance by 40%
 
 ## 🛠️ Tech Stack
