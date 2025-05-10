@@ -99,8 +99,7 @@
 
 ## 📝 Latest Medium Articles
 
-<!-- BLOG-POST-LIST:START -->
-<!-- Will be filled by GitHub Actions -->
+<!-- BLOG-POST-LIST:START -->[When Will My Promise Resolve? A Journey Through JavaScript Async Execution](https://kayumuzzaman.medium.com/when-will-my-promise-resolve-a-journey-through-javascript-async-execution-72eea387c2c1?source=rss-422438de961f------2) 
 <!-- BLOG-POST-LIST:END -->
 
 ## 🚀 Current Focuses
