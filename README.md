@@ -99,8 +99,20 @@
 
 ## 📝 Latest Medium Articles
 
-<!-- BLOG-POST-LIST:START -->[When Will My Promise Resolve? A Journey Through JavaScript Async Execution](https://kayumuzzaman.medium.com/when-will-my-promise-resolve-a-journey-through-javascript-async-execution-72eea387c2c1?source=rss-422438de961f------2) 
+<div align="center">
+  <img src="https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
+</div>
+
+<div align="left">
+  <h3>📰 Recent Publications:</h3>
+  
+<!-- BLOG-POST-LIST:START -->
+
+<!-- Will be filled by GitHub Actions -->
+
 <!-- BLOG-POST-LIST:END -->
+
+</div>
 
 ## 🚀 Current Focuses
 
