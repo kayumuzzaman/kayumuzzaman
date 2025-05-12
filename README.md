@@ -61,6 +61,7 @@
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Turborepo](https://img.shields.io/badge/-Turborepo-EF4444?style=for-the-badge&logo=turborepo&logoColor=white)
 ![TanStack Query](https://img.shields.io/badge/-TanStack_Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white)
 ![React Hook Form](https://img.shields.io/badge/-React_Hook_Form-EC5990?style=for-the-badge&logo=react&logoColor=white)
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
@@ -91,7 +92,6 @@
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Turborepo](https://img.shields.io/badge/-Turborepo-EF4444?style=for-the-badge&logo=turborepo&logoColor=white)
 ![Metabase](https://img.shields.io/badge/-Metabase-509EE3?style=for-the-badge&logo=metabase&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
@@ -116,7 +116,7 @@
 - 💼 Developing personal SaaS products for financial tracking
 - 🌱 Contributing to open source projects related to frontend tooling
 - ✍️ Writing technical articles on web development best practices
-- 📚 Exploring micro-frontend architecture patterns
+- 📚 Embarking on the [Product Management Journey with IBM](https://www.coursera.org/professional-certificates/ibm-product-manager)
 
 ## 📊 GitHub Stats
 
